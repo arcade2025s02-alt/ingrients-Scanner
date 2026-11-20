@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Smart Risk Analyzer</string>
+    <string name="movement_badge">Supporting Label Padhega India Movement</string>
+    <string name="hero_headline">Know What You Eat &amp; Use</string>
+    <string name="hero_subtitle">100% free offline ingredient risk analysis for packaged foods, agricultural fertilizers, and packaging materials—backed by WHO, FSSAI, and EPA safety standards.</string>
+    <string name="cta_get_started">Login</string>
+    <string name="cta_get_started_free">Sign Up Free</string>
+    <string name="cta_learn_more">Learn More</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_explore">Top Rated</string>
+    <string name="nav_analytics">History</string>
+    <string name="nav_chat">Assistant</string>
+    <string name="nav_admin">Admin</string>
+    <string name="nav_profile">Profile</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="camera_permission_rationale">Camera permission is needed to capture product ingredient labels.</string>
+</resources>

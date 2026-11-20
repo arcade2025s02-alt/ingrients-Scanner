@@ -1,0 +1,6 @@
+{
+  "name": "Smart Risk Analyzer",
+  "description": "AI-powered ingredient risk analyzer for packaged foods, agricultural fertilizers, and packaging materials with personal health alerts, healthier alternatives, smart recipes, AI chat, and scan analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
